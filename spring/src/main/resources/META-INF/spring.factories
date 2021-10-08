@@ -1,0 +1,3 @@
+org.example.simple.spring.spi.Color=\
+org.example.simple.spring.spi.Red,\
+org.example.simple.spring.spi.Green
